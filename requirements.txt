@@ -1,4 +1,3 @@
-python-telegram-bot==20.7
-starlette
-uvicorn
-httptools
+python-telegram-bot==21.10
+starlette==0.45.3
+uvicorn==0.34.0
